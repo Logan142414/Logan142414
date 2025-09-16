@@ -19,15 +19,18 @@ Here are some ideas to get you started:
 Data Analytics & Applied Mathematics Graduate | Elon University Class of 2025
 
 ## 🚀 About Me
-I love turning data into actionable insights. My interests include:
-- Data Analytics
-- Machine Learning
-- Python & R Programming
-- Predictive Modeling
-- Data Visualization
+I am passionate about turning data into insights. I love exploring Machine Learning, AI, and data analytics to solve real-world problems. My interests include:
+
+- **Data Analytics & Visualization** – uncovering patterns and presenting insights clearly  
+- **Machine Learning & AI** – building intelligent systems and models that attack business problems 
+- **Programming (Python & R)** – writing efficient, scalable code for analysis  
+- **Predictive Modeling** – using data to forecast trends and outcomes
 
 ## 🛠️ Skills
-Python | R | SQL | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn | Git | Jupyter
+Languages & Libraries: Python (pandas, NumPy, scikit-learn, matplotlib), R (ggplot2, dplyr, tidyr, Shiny), SQL, SAS
+Data Visualization & BI: Tableau, Power BI, Excel (Pivot Tables, Complex Formulas, Charts)
+Web & Apps: Streamlit
+Other Tools: Mathematica, LaTeX, PowerPoint
 
 ## 🌐 Projects
 
