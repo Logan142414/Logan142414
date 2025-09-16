@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Logan! 👋
+# Hi, I'm Logan!
 Data Analytics & Applied Mathematics Graduate | Elon University Class of 2025
 
-## 🚀 About Me
+## About Me
 I love turning data into actionable insights. My interests include:
 - Data Analytics
 - Machine Learning
@@ -26,10 +26,10 @@ I love turning data into actionable insights. My interests include:
 - Predictive Modeling
 - Data Visualization
 
-## 🛠️ Skills
+## Skills
 Python | R | SQL | Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn | Git | Jupyter
 
-## 🌐 Projects
+## Projects
 - **STS-3000-Replication-Project** – Data analysis & replication of scholarly research.
 - **MarchMadness2025Model** – Predictive model for March Madness using Kaggle data.
 - **HWH_App** – Streamlit app to help non-profits identify successful applicants.
