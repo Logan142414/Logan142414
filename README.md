@@ -65,7 +65,14 @@ More projects: [GitHub Repositories](https://github.com/Logan142414?tab=reposito
 _________________________________________________________________________________________________________________________________________________________________
 
 ## 📬 Connect with Me
-[Portfolio](https://loganlaszewski14.myportfolio.com) | [LinkedIn](https://www.linkedin.com/in/logan-laszewski) | [GitHub](https://github.com/Logan142414)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-laszewski)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=about.me&logoColor=white)](https://loganlaszewski14.myportfolio.com)
+[![Medium](https://img.shields.io/badge/Medium-00ab6c?style=flat&logo=medium&logoColor=white)](https://medium.com/@logan.laszewski14)
+_________________________________________________________________________________________________________________________________________________________________
 
+## 🎉 Hobbies & Interests
+- ✈️ Traveling & exploring new cultures  
+- 🏀 Staying active: basketball, disc golf, golf, pickleball, hiking, gym, and more
+- 🎴 Collecting Pokémon cards
 ---
 
