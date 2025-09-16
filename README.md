@@ -25,6 +25,7 @@ I am passionate about turning data into insights. I love exploring Machine Learn
 - **Machine Learning & AI** – building intelligent systems and models that attack business problems 
 - **Programming (Python & R)** – writing efficient, scalable code for analysis  
 - **Predictive Modeling** – using data to forecast trends and outcomes
+_________________________________________________________________________________________________________________________________________________________________
 
 ## 🛠️ Skills & Tools
 
@@ -51,6 +52,7 @@ I am passionate about turning data into insights. I love exploring Machine Learn
 [![Mathematica](https://img.shields.io/badge/Mathematica-FF6F00?style=flat&logo=wolfram-mathematica&logoColor=white)](https://www.wolfram.com/mathematica/) 
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/) 
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+_________________________________________________________________________________________________________________________________________________________________
 
 ## 🌐 Projects
 Check out some of my highlighted projects:
@@ -59,6 +61,7 @@ Check out some of my highlighted projects:
 - [**Pokemon Web Scraping App**](https://github.com/Logan142414/PokemonCardsApp) – A Python app that scrapes Pokémon card data from PriceCharting site.
 
 More projects: [GitHub Repositories](https://github.com/Logan142414?tab=repositories)
+_________________________________________________________________________________________________________________________________________________________________
 
 ## 📬 Connect with Me
 [Portfolio](https://loganlaszewski14.myportfolio.com) | [LinkedIn](https://www.linkedin.com/in/logan-laszewski) | [GitHub](https://github.com/Logan142414)
