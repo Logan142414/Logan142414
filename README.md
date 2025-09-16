@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Logan!
 Data Analytics & Applied Mathematics Graduate | Elon University Class of 2025
+_________________________________________________________________________________________________________________________________________________________________
 
 ## 🚀 About Me
 I am passionate about turning data into insights. I love exploring Machine Learning, AI, and data analytics to solve real-world problems. My interests include:
