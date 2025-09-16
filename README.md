@@ -26,17 +26,16 @@ I am passionate about turning data into insights. I love exploring Machine Learn
 - **Programming (Python & R)** – writing efficient, scalable code for analysis  
 - **Predictive Modeling** – using data to forecast trends and outcomes
 
-## 🛠️ Skills
-Languages & Libraries: Python (pandas, NumPy, scikit-learn, matplotlib), R (ggplot2, dplyr, tidyr, Shiny), SQL, SAS
-Data Visualization & BI: Tableau, Power BI, Excel (Pivot Tables, Complex Formulas, Charts)
-Web & Apps: Streamlit
-Other Tools: Mathematica, LaTeX, PowerPoint
+## 🛠️ Skills & Tools
+Python & Libraries: pandas, NumPy, scikit-learn, matplotlib |  
+R & Libraries: ggplot2, dplyr, tidyr, Shiny |  
+SQL | SAS | Tableau | Power BI | Excel | Streamlit | Mathematica | LaTeX | PowerPoint
 
 ## 🌐 Projects
-
-- **MarchMadness2025Model** – Predictive model for March Madness using Kaggle data.
-- **HWH_App** – Streamlit app to help non-profits identify successful applicants.
-- **Pokemon Web Scrapping App** - A Python app that scrapes Pokémon card data from PriceCharting site.
+Check out some of my highlighted projects:
+- [**MarchMadness2025Model**](https://github.com/Logan142414/MarchMadness2025Model) – Predictive model for March Madness using Kaggle data.
+- [**HWH_App**](https://github.com/Logan142414/HWH_App) – Streamlit app to help non-profits identify successful applicants.
+- [**Pokemon Web Scraping App**](https://github.com/Logan142414/PokemonWebScrapingApp) – A Python app that scrapes Pokémon card data from PriceCharting site.
 
 More projects: [GitHub Repositories](https://github.com/Logan142414?tab=repositories)
 
