@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Data Analytics & Applied Mathematics Graduate | Elon University Class of 2025
 _________________________________________________________________________________________________________________________________________________________________
 
-## 🚀 About Me
+## About Me
 I am passionate about turning data into insights. I love exploring Machine Learning, AI, and data analytics to solve real-world problems. My interests include:
 
 - **Data Analytics & Visualization** – uncovering patterns and presenting insights clearly  
@@ -28,7 +28,7 @@ I am passionate about turning data into insights. I love exploring Machine Learn
 - **Predictive Modeling** – using data to forecast trends and outcomes
 _________________________________________________________________________________________________________________________________________________________________
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
@@ -55,7 +55,7 @@ ________________________________________________________________________________
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 _________________________________________________________________________________________________________________________________________________________________
 
-## 🌐 Projects
+## Projects
 Check out some of my highlighted projects:
 - [**MarchMadness2025Model**](https://github.com/Logan142414/MarchMadness2025Model) – Predictive model for March Madness using Kaggle data.
 - [**HWH_App**](https://github.com/Logan142414/HWH_App) – Streamlit app to help non-profits identify successful applicants.
@@ -64,13 +64,13 @@ Check out some of my highlighted projects:
 More projects: [GitHub Repositories](https://github.com/Logan142414?tab=repositories)
 _________________________________________________________________________________________________________________________________________________________________
 
-## 📬 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-laszewski)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=about.me&logoColor=white)](https://loganlaszewski14.myportfolio.com)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=flat&logo=medium&logoColor=white)](https://medium.com/@logan.laszewski14)
 _________________________________________________________________________________________________________________________________________________________________
 
-## 🎉 Hobbies & Interests
+## Hobbies & Interests
 - ✈️ Traveling & exploring new cultures  
 - 🏀 Staying active: basketball, disc golf, golf, pickleball, hiking, gym, and more
 - 🎴 Collecting Pokémon cards
