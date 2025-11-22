@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm Logan!
 Data Analytics & Applied Mathematics Graduate | Elon University Class of 2025
 
-** View my portfolio here! [Portfolio] ((https://github.com/Logan142414/MarchMadness2025Model)
+** View my portfolio here! [Portfolio] (https://logan142414.github.io/Portfolio/) **
 _________________________________________________________________________________________________________________________________________________________________
 
 ## About Me
