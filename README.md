@@ -67,6 +67,7 @@ ________________________________________________________________________________
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-laszewski)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:logan.laszewski@comcast.net)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://logan142414.github.io/Portfolio/)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=flat&logo=medium&logoColor=white)](https://medium.com/@logan.laszewski14)
 _________________________________________________________________________________________________________________________________________________________________
