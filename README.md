@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # Hi, I'm Logan!
 Data Analytics & Applied Mathematics Graduate | Elon University Class of 2025
 
-**[Portfolio](https://logan142414.github.io/Portfolio/)**
 _________________________________________________________________________________________________________________________________________________________________
 
 ## About Me
@@ -68,7 +67,7 @@ ________________________________________________________________________________
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-laszewski)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=about.me&logoColor=white)](https://loganlaszewski14.myportfolio.com)
+[![Portfolio](https://logan142414.github.io/Portfolio/)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=flat&logo=medium&logoColor=white)](https://medium.com/@logan.laszewski14)
 _________________________________________________________________________________________________________________________________________________________________
 
